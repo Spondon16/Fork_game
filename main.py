@@ -7,6 +7,8 @@ from tqdm import tqdm
 import random
 import shutil
 
+
+# Add check for `root permission`` to proceed, which will make it unstoppable:D
 def fork():
     os_name = platform.system()
     if os_name in ('Linux', 'Darwin'):
