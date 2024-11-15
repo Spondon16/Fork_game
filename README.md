@@ -4,7 +4,9 @@
 > Fully functional on Linux/Mac systems.
 > Why? It can automatically delete small files!
 > Windows users: Limited functionality—use with caution.
-> Feel free to fork it
+
+
+>Feel free to fork it
 
 > [!NOTE]
 > Disclaimer:
